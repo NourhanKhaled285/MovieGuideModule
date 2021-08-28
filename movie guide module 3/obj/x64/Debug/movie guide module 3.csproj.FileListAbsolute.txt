@@ -1,0 +1,15 @@
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form14.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.regestration.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form10.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form11.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form12.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form13.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form2.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form3.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form4.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form5.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form6.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form7.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form8.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie_guide_module_3.Form9.resources
+F:\lectures and labs second year\1st term\is\movie guide module 3\movie guide module 3\obj\x64\Debug\movie guide module 3.csproj.GenerateResource.Cache
